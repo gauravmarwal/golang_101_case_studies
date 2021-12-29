@@ -1,0 +1,74 @@
+{
+    "account": [
+        {
+            "AccountName": "Current Account",
+            "BankBalance": 20310.0000,
+            "BankFeedsAccountId": 0,
+            "Code": 1200,
+            "DefaultInvoicePaymentType": {
+                "Id": 45,
+                "Name": "Bank Transfer"
+            },
+            "DefaultPurchasePaymentType": {
+                "Id": 0,
+                "Name": null
+            }
+        },
+        {
+            "AccountName": "HSBC",
+            "BankBalance": 200.0000,
+            "BankFeedsAccountId": 0,
+            "Code": 1201,
+            "DefaultInvoicePaymentType": {
+                "Id": 45,
+                "Name": "Bank Transfer"
+            },
+            "DefaultPurchasePaymentType": {
+                "Id": 0,
+                "Name": null
+            }
+        },
+        {
+            "AccountName": "ICICI",
+            "BankBalance": 12069.0000,
+            "BankFeedsAccountId": 0,
+            "Code": 1202,
+            "DefaultInvoicePaymentType": {
+                "Id": 45,
+                "Name": "Bank Transfer"
+            },
+            "DefaultPurchasePaymentType": {
+                "Id": 0,
+                "Name": null
+            }
+        },
+        {
+            "AccountName": "HDFC",
+            "BankBalance": 0.0000,
+            "BankFeedsAccountId": 0,
+            "Code": 1203,
+            "DefaultInvoicePaymentType": {
+                "Id": 11,
+                "Name": "Cheque"
+            },
+            "DefaultPurchasePaymentType": {
+                "Id": 0,
+                "Name": null
+            }
+        },
+        {
+            "AccountName": "BNY",
+            "BankBalance": 0.0000,
+            "BankFeedsAccountId": 0,
+            "Code": 1204,
+            "DefaultInvoicePaymentType": {
+                "Id": 45,
+                "Name": "Bank Transfer"
+            },
+            "DefaultPurchasePaymentType": {
+                "Id": 0,
+                "Name": null
+            }
+        }
+    ]
+}

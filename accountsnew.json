@@ -1,0 +1,54 @@
+{
+    "account": [
+        {
+            "AccountName": "Current Account",
+            "Beneficiaries": [
+                "Jason",
+                "Mason",
+                "Sachin"
+            ],
+            "BankBalance": 20310.0000,
+            "BankStatus": true,
+            "Code": 1200
+        },
+        {
+            "AccountName": "HSBC",
+            "Beneficiaries": [
+                "Jason",
+                "Mason",
+                "Sachin",
+                "Mahesh"
+            ],
+            "BankBalance": 200.0000,
+            "BankStatus": true,
+            "Code": 1201
+        },
+        {
+            "AccountName": "ICICI",
+            "Beneficiaries": [
+                "Jason",
+                "Mason"
+            ],
+            "BankBalance": 12069.0000,
+            "BankStatus": false,
+            "Code": 1202
+        },
+        {
+            "AccountName": "BNY",
+            "Beneficiaries": [
+                "Jason",
+                "Mason"
+            ],
+            "BankBalance": 0.0000,
+            "BankStatus": true,
+            "Code": 1204
+        },
+        {
+            "AccountName": "IDFC",
+            "Beneficiaries": null,
+            "BankBalance": 10000000000000,
+            "BankStatus": true,
+            "Code": 1206
+        }
+    ]
+}
